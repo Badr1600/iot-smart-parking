@@ -6,5 +6,5 @@ package iot.android.learing.iot_smartparking.app;
 public class AppConfig {
 
     // Server video url
-    public static String URL_Car_Entries_UTILS = "http://54.183.231.164/iot-project/fetch_car_entries.php";
+    public static String URL_Car_Entries_UTILS = "http://35.161.122.151/iot-parking/fetch_car_entries.php";
 }

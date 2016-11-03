@@ -139,7 +139,19 @@
                 android:text="@string/action_sign_in"
                 android:textStyle="bold" />
 
+            <TextView
+                android:text="demo user: foo@example.com"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10" />
+
         </LinearLayout>
     </ScrollView>
+
+    <TextView
+        android:text="demo password: hello"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView11" />
 
 </LinearLayout>
